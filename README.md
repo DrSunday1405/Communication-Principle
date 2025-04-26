@@ -1,2 +1,2 @@
 # Communication-Principle
-Communication Principle simulation homework
+Communication Principle simulation matlab code
